@@ -52,7 +52,8 @@ a {
 }
 
 .hero-image {
-    max-width: 60%;
+    outline: 8px solid #8fb4ee;
+    max-width: 43%;
     width: 450px;
     height: auto;
 }
@@ -148,9 +149,9 @@ a {
     background-color: #3882f6;
     border-radius: 12px;
     width: 1000px;
-    padding: 48px;
+    padding: 48px 88px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .sign-up-header {
